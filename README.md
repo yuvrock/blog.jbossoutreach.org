@@ -1,4 +1,4 @@
-# Coding Blocks Blog
+# JBoss Blog
 
 This is a Jekyll blog. To maintain the blog, it's best you have Ruby installed.
 From within Ruby, install Jekyll and Rake too.
