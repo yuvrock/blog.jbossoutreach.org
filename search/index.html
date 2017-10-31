@@ -1,0 +1,36 @@
+---
+layout: default
+title: Search
+search_omit: true
+---
+
+<div class="home">
+
+  <div class="content" style="padding: 5%">
+
+    <h1>Search</h1>
+
+    <!-- Html Elements for Search -->
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="search...">
+      <ul id="results-container"></ul>
+    </div>
+
+  </div>
+
+</div>
+
+
+  <!-- jQuery - required but can be moved to the <head> -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+  <!-- Search script - Must appear after template -->
+  <script src="/js/search.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search/index.json'
+    })
+</script>
