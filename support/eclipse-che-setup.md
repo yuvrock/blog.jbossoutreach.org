@@ -26,5 +26,5 @@ $ rvm install "ruby-2.3.0"
 $ rvm use "ruby-2.3.0"
 $ gem install bundler
 $ bundle install
-$ bundle exec jekyll serve --no-watch --host 0.0.0.0
+$ bundle exec jekyll serve --host 0.0.0.0
 ```
