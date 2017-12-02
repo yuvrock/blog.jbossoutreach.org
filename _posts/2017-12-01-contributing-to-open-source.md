@@ -14,8 +14,6 @@ comments: true
 featured: false
 ---
 
-![Contributing to Open Source](https://github.com/lakhina/blog.jboss-outreach.org/blob/addPost/img/making-your-first-opensource-contribution.jpg?raw=true)
-
 
 Contributing to open source can be exciting as well as scary at the same time. If you are a newbie, then entering into the world of open source can be a really overwhelming experience for sure. 
 
