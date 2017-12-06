@@ -1,4 +1,4 @@
-## Steps for running this project on eclipse-che with codenvy.
+## Setup on eclipse-che
 
 You will need to setup your codenvy account for the n steps
 
@@ -22,8 +22,8 @@ $ source ~/.rvm/scripts/rvm
 $ git clone https://github.com/<username>/blog.jboss-outreach.org.git
 $ cd git
 
-$ rvm install "ruby-2.3.0"
-$ rvm use "ruby-2.3.0"
+$ rvm install "ruby-2.4.2"
+$ rvm use "ruby-2.4.2"
 $ gem install bundler
 $ bundle install
 $ bundle exec jekyll serve --host 0.0.0.0
