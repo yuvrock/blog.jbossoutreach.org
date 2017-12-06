@@ -7,7 +7,16 @@ From within Ruby, install Jekyll and Rake too.
 gem install jekyll
 gem install rake
 ```
+## Pull requests
 
+Please take ref of these 
+* Create your post under `_posts` dirertory, in `yyyy-mm-dd-title.md` format. 
+* [posts](https://github.com/jboss-outreach/blog.jboss-outreach.org/tree/master/_posts)
+* [pull request](https://github.com/jboss-outreach/blog.jboss-outreach.org/pull/21)
+
+## Setup
+* [Linux](https://blog.jboss-outreach.org/support/setup-linux)
+* [Eclipse che](https://blog.jboss-outreach.org/support/eclipse-che-setup)
 
 ## Creating New Articles
 
@@ -29,12 +38,6 @@ Set `page.sitemap.include` to `'yes'`, to include the page in sitemap.
 sitemap:
   include: 'yes'
 ```
-
-
-
-
-
-
 
 
 Based on Type Theme by Rohan Chandra
