@@ -1,6 +1,6 @@
 ---
 layout: post
-title:open source journey of Anshul Yadav
+title: open source journey of Anshul Yadav
 description:
 headline:
 modified: 2018-01-06 20:27:23 +0000
