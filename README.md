@@ -17,6 +17,34 @@ Please take reference of these
 * [Posts](https://github.com/jboss-outreach/blog.jboss-outreach.org/tree/master/_posts)
 * [Pull requests](https://github.com/jboss-outreach/blog.jboss-outreach.org/pull/21)
 
+*Please make sure that you follow the specified format shown below in your post*
+
+File name: `YYYY-MM-DD-post-title.md`
+
+For example, `2018-01-10-updating-readme.md` would be a valid file name.
+
+Inside the file itself, before writing your blog, paste in the following snippet and fill in all the fields appropriately. Make sure that you add a space ` `   right before you add your information.
+
+```
+---
+layout: post
+title: "[MY POST NAME]"
+description: "[POST DESCRIPTION]"
+headline: 
+modified:
+category: personal
+tags: []
+feature-img: 
+mathjax: 
+chart: 
+author: '[YOUR NAME]'
+comments: true
+featured: true
+---
+```
+
+For other examples, navigate to `_posts` and view any of the posts.
+
 ## Setup
 * [Linux](https://blog.jboss-outreach.org/support/setup-linux)
 * [Eclipse che](https://blog.jboss-outreach.org/support/eclipse-che-setup)
