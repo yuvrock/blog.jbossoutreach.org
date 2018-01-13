@@ -1,17 +1,11 @@
-<!--{% if site.theme_settings.katex %}
+<!-- {% if site.theme_settings.katex %}
 <script src="{{ "/js/katex_init.js" | prepend: site.baseurl }}"></script>
 {% endif %}
-
+ -->
 {% if site.theme_settings.footer_text %}
-<footer class="site-footer">
-	<p class="text">{{ site.theme_settings.footer_text }}</p>
-</footer>
-{% endif %}
--->
+  <footer class="site-footer footer-distributed">
 
-<footer class="footer-distributed">
-
-      <div class="footer-left">
+    <div class="footer-left">
 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/640px-JBoss_logo.svg.png" height="100">
 
@@ -29,29 +23,29 @@
         </p>
 
         <p class="footer-company-name" style="margin-top: 50px;">Copyright &copy; 2017 RedHat, Inc.</p>
+    </div>
+
+    <div class="footer-center">
+
+      <div>
+        <i class="fa fa-map-marker"></i>
+        <p><span>100 East Davie Street</span> Raleigh, United States</p>
       </div>
 
-      <div class="footer-center">
-
-        <div>
-          <i class="fa fa-map-marker"></i>
-          <p><span>100 East Davie Street</span> Raleigh, United States</p>
-        </div>
-
-        <div style="margin-top: -3px;">
+      <div style="margin-top: -3px;">
           <i class="fa fa-phone"></i>
           <p> + 1 919 754 4950</p>
-        </div>
+      </div>
 
-        <div style="margin-top: -3px;">
+      <div style="margin-top: -3px;">
           <i class="fa fa-envelope"></i>
           <p><a href="mailto:customerservice@redhat.com">customerservice@redhat.com</a></p>
-        </div>
+      </div>
 
-        <div style="margin-top: -3px;">
+      <div style="margin-top: -3px;">
           <i class="fa fa-code"></i>
           <p><a href="https://gci.jboss-outreach.org/">JBoss Community GCI Website</a></p>
-        </div>
+      </div>
 
 
       </div>
@@ -75,5 +69,5 @@
 
       </div>
 
-    </footer>
-
+  </footer>
+{% endif %}
