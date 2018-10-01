@@ -11,7 +11,7 @@ $ source ~/.rvm/scripts/rvm
 
 # fork and clone your fork of blog website and change dir to it
 $ git clone https://github.com/<username>/blog.jboss-outreach.org.git
-$ cd git
+$ cd blog.jboss-outreach.org
 
 $ rvm install "ruby-2.4.2"
 $ rvm use "ruby-2.4.2"
