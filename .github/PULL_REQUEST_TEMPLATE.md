@@ -1,0 +1,19 @@
+Fixes #[Add issue number here.]
+
+### Submission Checklist
+<!-- Go over all points below, and after creating the PR, tick all the checkboxes that apply. -->
+<!-- All points should be verified, otherwise, read the CONTRIBUTING.md guidelines -->
+<!-- Check the required fields with 'x' inside the [ ] -->
+
+- [ ] Your pull request targets the `master` branch of the repository.
+- [ ] You have only one commit (if not, [squash](http://forum.freecodecamp.org/t/how-to-squash-multiple-commits-into-one-with-git/13231) them into one commit).
+- [ ] You have read the [Contributing guidelines](https://github.com/jbossOutreach/gci/blob/master/CONTRIBUTING.md) and your changes follow them.
+
+#### Type of Change
+<!-- What type of change does your code introduce? -->
+- [ ] Bug fix
+- [ ] New implementation
+
+### PR Description
+<!-- Describe your changes in detail, if applicable. -->
+
