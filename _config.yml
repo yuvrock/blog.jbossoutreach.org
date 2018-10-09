@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 #baseurl: "/"
-url: "https://jboss-outreach.github.io/blog"
+url: "https://blog.jboss-outreach.org/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -23,13 +23,13 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: info@jboss-outreach.org
+  email_address: info@jbossoutreach.org
   behance:
   bitbucket:
   dribbble:
   facebook: "jbossoutreach"
   flickr:
-  github: "jboss-outreach"
+  github: "jbossoutreach"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -45,7 +45,7 @@ theme_settings:
 
   # Scripts
   google_analytics: "UA-83327907-2"
-  disqus_shortname: jboss-outreach
+  disqus_shortname: jbossoutreach
   katex: true # Enable if using math markup
 
   # Localization strings
