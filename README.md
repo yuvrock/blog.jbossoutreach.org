@@ -13,7 +13,7 @@ $ gem install rake
 ## Pull requests
 
 Please take reference of these 
-* Create your post under `_posts` dirertory, in `yyyy-mm-dd-title.md` format. 
+* Create your post under `_posts` directory, in `yyyy-mm-dd-title.md` format. 
 * [Posts](https://github.com/jboss-outreach/blog.jboss-outreach.org/tree/master/_posts)
 * [Pull requests](https://github.com/jboss-outreach/blog.jboss-outreach.org/pull/21)
 
@@ -54,7 +54,7 @@ For other examples, navigate to `_posts` and view any of the posts.
 There is a rake task for this -
 
 ```
-$ rake new_post["Topic of new post"]
+$ rake new_post ["Topic of new post"]
 ```
 
 ## Creating a new page
