@@ -1,4 +1,4 @@
-# JBoss Blog
+# JBoss Blog:
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2466651fc844fb2a262645ae7d1b117)](https://www.codacy.com/app/aashutoshrathi/blog.jboss-outreach.org?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jboss-outreach/blog.jboss-outreach.org&amp;utm_campaign=Badge_Grade)
 
@@ -10,9 +10,9 @@ From within Ruby, install Jekyll and Rake too, as shown below.
 $ gem install jekyll
 $ gem install rake
 ```
-## Pull requests
+## Pull requests:
 
-Please take reference of these 
+Please take reference of these :
 * Create your post under `_posts` dirertory, in `yyyy-mm-dd-title.md` format. 
 * [Posts](https://github.com/jboss-outreach/blog.jboss-outreach.org/tree/master/_posts)
 * [Pull requests](https://github.com/jboss-outreach/blog.jboss-outreach.org/pull/21)
@@ -45,11 +45,11 @@ featured: true
 
 For other examples, navigate to `_posts` and view any of the posts.
 
-## Setup
+## Setup:
 * [Linux](https://blog.jboss-outreach.org/support/setup-linux)
 * [Eclipse che](https://blog.jboss-outreach.org/support/eclipse-che-setup)
 
-## Creating New Articles
+## Creating New Articles:
 
 There is a rake task for this -
 
@@ -57,7 +57,7 @@ There is a rake task for this -
 $ rake new_post["Topic of new post"]
 ```
 
-## Creating a new page
+## Creating a new page:
 
 There is a rake task for this as well -
 
@@ -76,14 +76,14 @@ This site is based on the _Type Theme_ by Rohan Chandra
 
 It is a free and open-source [Jekyll](http://jekyllrb.com) theme, great for blogs and easy to customize.
 
-## Get Started
+## Get Started:
 
 [Demo](https://rohanchandra.github.io/type-theme/)
 
 [Using Type](https://rohanchandra.github.io/project/type/)
 
-## License
-The MIT License (MIT)
+## License:
+The MIT License (MIT).
 
-## Help
-If you need any help or are stuck anywhere, feel free to ask a question in [the JBoss GCI chat](https://gitter.im/jboss-outreach/gci).
+## Help:
+If you need any help or if you are stuck anywhere, please feel free to ask a question in [the JBoss GCI chat] (https://gitter.im/jboss-outreach/gci) and the mentors will try to reach to you as soon as possible. The mentors will always try to be there for you but they aren't always available so you can also join one of our chat rooms.
