@@ -1,4 +1,4 @@
-# JBoss Blog:
+# JBoss's Blog:
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2466651fc844fb2a262645ae7d1b117)](https://www.codacy.com/app/aashutoshrathi/blog.jboss-outreach.org?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jboss-outreach/blog.jboss-outreach.org&amp;utm_campaign=Badge_Grade)
 
